@@ -1,0 +1,12 @@
+//Cards
+.card{
+    border: 1px solid $primary !important;
+    .card-header{
+        background-color: $primary;
+        color: $light;
+    }
+    .card-body{
+        //TODO: Errors on fcking light var
+        background-color: $light !important;
+    }
+}

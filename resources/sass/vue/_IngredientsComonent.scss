@@ -1,0 +1,53 @@
+// IngredientsComponent
+
+.ingredientslist{
+    input{
+        width: 100%;
+    }
+    ul{
+        list-style: none;
+        padding: 0;
+        margin-top: $spacing-m;
+        min-height: 300px;
+        max-height: 300px;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+    li{
+        input{
+            &:focus{
+                outline: none;
+            }
+            border-top: 2px solid $dark;
+            border-left: 2px solid $dark;
+            border-right: 2px solid $dark;
+            height: 35px;
+            padding: $spacing-m;
+            border-radius: 5px 5px 0 0;
+        }
+        border-radius: 5px;
+        background-color: $dark;
+        color: $light;
+        margin: $spacing-m;
+        &.active{
+            color: $dark;
+            background-color: $green;
+            input{
+                border-top: 3px solid $green;
+                border-left: 3px solid $green;
+                border-right: 3px solid $green;
+            }
+        }
+        label{
+            margin: $spacing-xs;
+            padding: $spacing-s;
+            height: 100%;
+            width: 100%;
+            font-size: 1.2em;
+        }
+    }
+    input[type="checkbox"]{
+        display: none;
+    }
+
+}

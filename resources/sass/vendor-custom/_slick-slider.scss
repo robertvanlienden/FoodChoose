@@ -1,0 +1,25 @@
+//Slick slider
+
+//Arrow
+
+.slick-arrow{
+    &:before {
+        color: $dark;
+        height: 25px;
+        width: 25px;
+    }
+}
+
+.slick-slider{
+    padding: $spacing-l;
+}
+
+.slick-dots {
+    li{
+        button {
+            &:before {
+                font-size: 25px;
+            }
+        }
+    }
+}

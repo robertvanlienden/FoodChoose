@@ -1,0 +1,10 @@
+//Tables
+.table{
+    tr{
+        td, th{
+            padding: $spacing-m;
+            border-top: 1px solid $darkest;
+        }
+    }
+}
+

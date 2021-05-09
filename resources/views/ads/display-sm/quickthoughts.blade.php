@@ -1,0 +1,1 @@
+<a href="https://ndt5.net/c/?si=14707&amp;li=1633284&amp;wi=352433&amp;ws=" rel="sponsored" target="_blank"><img src="https://static-dscn.net/14707/1633284/?wi=352433&amp;ws=" alt="" style="max-width:300px; height:auto; border:none;" /></a>

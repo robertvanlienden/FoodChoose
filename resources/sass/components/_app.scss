@@ -1,0 +1,21 @@
+//App
+//
+html{
+    height: 100vh;
+}
+body{
+    position: relative;
+    margin: 0;
+    min-width: 350px;
+    min-height: 100vh;
+}
+main{
+    padding-bottom: 200px;
+}
+#app{
+    background-color: $tertiary;
+    position: relative;
+    min-height: 100vh;
+    margin: 0 auto -40px;
+}
+

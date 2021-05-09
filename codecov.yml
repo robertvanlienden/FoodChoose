@@ -1,0 +1,20 @@
+coverage:
+  status:
+    project:
+      default:
+        # basic
+#        target: auto
+#        threshold: -5%
+#        base: auto
+#        flags:
+#          - unit
+        paths:
+          - "app"
+        # advanced
+#        branches:
+#          - master
+#          - staging
+#        if_not_found: success
+#        if_ci_failed: success
+#        informational: false
+#        only_pulls: false

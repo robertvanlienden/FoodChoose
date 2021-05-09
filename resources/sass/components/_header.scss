@@ -1,0 +1,29 @@
+#navbar{
+    background-color: $primary;
+    & a{
+        color: $darkest;
+    }
+    .logo-img{
+        -webkit-transition: all 0.3s ease;
+        transition: all 0.3s ease;
+    }
+    .btn-header{
+        -webkit-transition: all 0.3s ease;
+        transition: all 0.3s ease;
+    }
+    .navbar-toggler{
+        background-color: $secondary;
+        margin-top: $spacing-l;
+    }
+    .hamburger{
+        padding: 10px;
+    }
+    .hamburger-box{
+        height: 25px;
+        width: 35px;
+    }
+    .hamburger-inner, .hamburger-inner::before, .hamburger-inner::after{
+        height: 3px;
+        width: 100%;
+    }
+}

@@ -1,0 +1,32 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+//Base
+@import 'base/fonts';
+@import 'base/responsive';
+
+//Components
+@import 'components/app';
+@import 'components/cards';
+@import 'components/footer';
+@import 'components/lists';
+@import 'components/tables';
+@import 'components/forms';
+@import 'components/header';
+
+//Vue
+@import 'vue/IngredientsComonent';
+@import 'vue/WeekplannerComponent';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+// Slick
+@import '~slick-carousel/slick/slick';
+@import '~slick-carousel/slick/slick-theme';
+@import 'vendor-custom/slick-slider';
+@import 'hamburgers/_sass/hamburgers/hamburgers';
+

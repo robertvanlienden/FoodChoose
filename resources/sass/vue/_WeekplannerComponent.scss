@@ -1,0 +1,26 @@
+#save-modal{
+    &:after{
+        content: '';
+        position: fixed;
+        left: 0;
+        right: 0;
+        top: 0;
+        bottom: 0;
+        opacity: 0.8;
+        background-color: $dark;
+        z-index: 10;
+    }
+    display: none!important;
+    position: fixed;
+    z-index: 5;
+    left: 150px;
+    right: 150px;
+    top: 25%;
+    bottom: 25%;
+    .card{
+        z-index: 15;
+    }
+    &.active{
+        display: block!important;
+    }
+}

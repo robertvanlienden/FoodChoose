@@ -1,0 +1,19 @@
+<svg id="Logo" xmlns="http://www.w3.org/2000/svg" width="226" height="151.805" viewBox="0 0 226 151.805">
+  <g id="Bord" transform="translate(41.336 0.481)">
+    <path id="Path_11" data-name="Path 11" d="M125.42,165.2c39.417,0,71.37-32.281,71.37-72.1S164.837,21,125.42,21,54.05,53.281,54.05,93.1,86,165.2,125.42,165.2Z" transform="translate(-54.05 -21)" fill="#949494"/>
+    <path id="Path_12" data-name="Path 12" d="M116.126,135.175c28.133,0,50.939-23.04,50.939-51.462S144.26,32.251,116.126,32.251,65.187,55.292,65.187,83.713,87.993,135.175,116.126,135.175Z" transform="translate(-44.756 -11.611)" fill="#fff"/>
+    <path id="Path_13" data-name="Path 13" d="M62.553,64.467c13.128-22.659,21.94-28.656,40.639-35.491-15.7,1.344-24.122,9.515-24.122,9.515C67.873,47.6,63.254,60.182,62.553,64.467Z" transform="translate(-46.954 -14.344)" fill="#fff"/>
+  </g>
+  <g id="Mes" transform="translate(185.644 0.052)">
+    <path id="Path_17" data-name="Path 17" d="M138.127,45.733H147.9V147.625a3.208,3.208,0,0,1-.934,2.266,3.169,3.169,0,0,1-2.254.939h-3.8a2.763,2.763,0,0,1-1.065-.213,2.805,2.805,0,0,1-1.721-2.591Z" transform="translate(-128.451 0.924)" fill="#cfcfcf"/>
+    <path id="Path_18" data-name="Path 18" d="M152.046,99.492V21.312c-11.2,5.133-17.587,16.823-19.164,35.583C131.485,73.51,137.873,87.881,152.046,99.492Z" transform="translate(-132.694 -21.312)" fill="#cfcfcf"/>
+  </g>
+  <g id="Vork" transform="translate(9)">
+    <path id="Path_19" data-name="Path 19" d="M43.6,21.393h1.783l1.912,32.1H44.17A2.014,2.014,0,0,1,42,51.68Z" transform="translate(-42 -21.185)" fill="#cfcfcf"/>
+    <path id="Path_20" data-name="Path 20" d="M47.883,21.448l1.874-.055,1.466,32.1h-5.29Z" transform="translate(-38.316 -21.185)" fill="#cfcfcf"/>
+    <path id="Path_21" data-name="Path 21" d="M51.468,21.286h1.86l1.829,30.509a2.014,2.014,0,0,1-2.17,1.809H49.867Z" transform="translate(-34.631 -21.286)" fill="#cfcfcf"/>
+    <path id="Path_22" data-name="Path 22" d="M57.3,35.231H43.757v5.308H57.3Z" transform="translate(-40.355 -8.223)" fill="#cfcfcf"/>
+    <path id="Path_23" data-name="Path 23" d="M47.469,35.5l5.135.418,1.912,121.307c0,1.412-1.542,2.557-3.443,2.557H47.408c-1.664,0-3.013-1-3.013-2.237Z" transform="translate(-39.757 -7.974)" fill="#cfcfcf"/>
+  </g>
+  <text id="FoodChoose" transform="translate(113 90.447)" fill="#214f4b" font-size="45" font-family="Impact"><tspan x="-112.994" y="0">FoodChoose</tspan></text>
+</svg>
