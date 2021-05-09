@@ -6,7 +6,7 @@ The application is written in Dutch without translations.
 Because I don't maintain this project active, I've decided to publish the code open-source on GitHub for learning purposes.
 
 Do you see improvements and/or do you want to add/improve some features?
-Feel free to get in contact with me (mail@robertvanlienden / [Twitter @Robertvanlienden](https://www.twitter.com/robertvanlienden) )
+Feel free to get in contact with me (mail@robertvanlienden / [Twitter @Robertvlienden](https://www.twitter.com/robertvlienden) )
 
 The code for https://www.foodchoose.nl/ (live env) is stored on a private GitLab repo.
 
