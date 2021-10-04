@@ -3,7 +3,7 @@
 FoodChoose (https://www.foodchoose.nl/) is build by Robert van Lienden (https://www.robertvanlienden.nl/). \
 The application is written in Dutch without translations.
 
-Because I don't maintain this project active, I've decided to publish the code open-source on GitHub for learning purposes.
+Because I don't activly maintain this project, I've decided to publish a copy of the code on GitHub for learning purposes.
 
 Do you see improvements and/or do you want to add/improve some features?
 Feel free to get in contact with me (mail@robertvanlienden / [Twitter @Robertvlienden](https://www.twitter.com/robertvlienden) )
@@ -51,3 +51,7 @@ By default there are 2 users in the seed.
 I've made some unit tests, but they are not working in the docker environment.
 
 For now, I just let them be as they are.
+
+## License
+
+This repo is for learning purposes. Please don't use this code for commercial use.
